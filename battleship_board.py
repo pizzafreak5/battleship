@@ -74,6 +74,8 @@ class Board:
 
             print(row_string)
             row_string = ''
+
+    
             
             
 
